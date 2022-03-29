@@ -1,5 +1,4 @@
 # PyBer_Analysis
-# PyBer_Analysis
 
 ## Overview of the analysis: Explain the purpose of the new analysis.
 For this analysis, we first need to make a summary DataFrame of the ride-sharing data by city type. After we make the summary DataFrame, we need to make a multiple-line graph in order to represent the total weekly fares for the urban, suburban, and rural types. Using this new information, we need to point out the differences and see how the company (V. Isualize and Omar) can utilize this information.
